@@ -1,0 +1,14 @@
+node_type: "section"
+title: "פרק ז': בקרות במכשירים ובערוצים ספציפיים"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_66"
+  - "c_67"
+  - "d_367-s_08-c_68.md"
+  - "d_367-s_08-c_69.md"
+  - "d_367-s_08-c_70.md"
+  - "c_71"
+  - "d_367-s_08-c_72.md"

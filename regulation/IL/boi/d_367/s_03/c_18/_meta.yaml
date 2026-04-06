@@ -1,0 +1,15 @@
+node_type: "clause"
+numbering: "18"
+numbering_display: "18"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_03-c_18-sc_aleph.md"
+  - "d_367-s_03-c_18-sc_bet.md"
+  - "d_367-s_03-c_18-sc_gimel.md"
+  - "d_367-s_03-c_18-sc_dalet.md"
+  - "d_367-s_03-c_18-sc_he.md"
+  - "d_367-s_03-c_18-sc_vav.md"
+  - "d_367-s_03-c_18-sc_zayin.md"

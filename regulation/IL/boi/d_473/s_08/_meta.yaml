@@ -1,0 +1,10 @@
+node_type: "section"
+title: "דיווח"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_473-s_08-c_21.md"
+  - "d_473-s_08-c_22.md"
+  - "d_473-s_08-c_23.md"

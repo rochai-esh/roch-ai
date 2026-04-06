@@ -1,0 +1,8 @@
+node_type: "section"
+title: "פרק ח': ריכוז מידע"
+sequence: 9
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_73"

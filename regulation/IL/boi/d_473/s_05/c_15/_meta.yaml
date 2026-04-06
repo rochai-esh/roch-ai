@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "15"
+numbering_display: "15"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_473-s_05-c_15-sc_aleph.md"
+  - "d_473-s_05-c_15-sc_bet.md"

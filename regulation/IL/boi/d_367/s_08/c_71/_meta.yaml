@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "71"
+numbering_display: "71"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_08-c_71-sc_aleph.md"
+  - "d_367-s_08-c_71-sc_bet.md"

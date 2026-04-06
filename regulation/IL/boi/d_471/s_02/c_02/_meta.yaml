@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "2"
+numbering_display: "2"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_471-s_02-c_02-sc_aleph.md"
+  - "d_471-s_02-c_02-sc_bet.md"
