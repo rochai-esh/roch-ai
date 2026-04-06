@@ -1,0 +1,8 @@
+node_type: "section"
+title: "עדכונים"
+sequence: 25
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_25-updates.md"

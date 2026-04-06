@@ -1,0 +1,8 @@
+node_type: "section"
+title: "שיווק נכסים"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_09"

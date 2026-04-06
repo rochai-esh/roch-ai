@@ -6,5 +6,5 @@ is_leaf: false
 language: "he"
 parent: ".."
 children:
-  - "d_473-s_05-c_15-sc_aleph.md"
-  - "d_473-s_05-c_15-sc_bet.md"
+  - "d_473-s_05-c_15-sc_01.md"
+  - "d_473-s_05-c_15-sc_02.md"

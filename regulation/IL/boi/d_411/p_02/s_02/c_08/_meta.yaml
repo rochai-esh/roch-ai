@@ -1,0 +1,4 @@
+node_type: "clause"
+clause_id: "c_08"
+title: "אחריות ההנהלה הבכירה"
+sub_clauses: ["sc_aleph", "sc_bet", "sc_gimel", "sc_dalet", "sc_he", "sc_vav"]

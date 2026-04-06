@@ -1,0 +1,4 @@
+node_type: "clause"
+clause_id: "c_07"
+title: "אחריות הדירקטוריון"
+sub_clauses: ["sc_aleph", "sc_bet", "sc_gimel", "sc_dalet", "sc_he", "sc_vav"]

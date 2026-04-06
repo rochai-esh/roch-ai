@@ -1,0 +1,8 @@
+node_type: "section"
+title: "הוראות ניהול בנקאי תקין החלות על חברות כרטיסי אשראי"
+sequence: 3
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_03-c_03.md"

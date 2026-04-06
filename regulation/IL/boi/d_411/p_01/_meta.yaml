@@ -1,0 +1,7 @@
+node_type: "part"
+part_id: "p_01"
+title: "פרק א': כללי"
+children:
+  - "s_01"
+  - "s_02"
+  - "s_03"

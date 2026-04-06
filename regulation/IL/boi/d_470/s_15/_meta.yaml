@@ -1,0 +1,8 @@
+node_type: "section"
+title: "המרת עסקאות במט\"ח לשקלים"
+sequence: 15
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_15-c_16.md"

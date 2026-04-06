@@ -1,0 +1,11 @@
+node_type: "section"
+title: "כרטיס חיוב מיידי וכרטיס נטען"
+sequence: 16
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_17"
+  - "d_470-s_16-c_18.md"
+  - "c_19"
+  - "d_470-s_16-c_20.md"

@@ -1,0 +1,4 @@
+node_type: "section"
+section_id: "s_01"
+title: "מבוא"
+clauses: ["c_01", "c_02", "c_03", "c_04"]
