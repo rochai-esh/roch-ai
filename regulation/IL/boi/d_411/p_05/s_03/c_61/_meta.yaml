@@ -1,0 +1,4 @@
+node_type: "clause"
+clause_id: "c_61"
+title: "סיווג איש ציבור כסיכון גבוה"
+sub_clauses: ["sc_aleph", "sc_bet"]

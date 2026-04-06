@@ -1,0 +1,11 @@
+node_type: "clause"
+numbering: "12א"
+numbering_display: "12א"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_13-c_12a-sc_aleph.md"
+  - "d_470-s_13-c_12a-sc_bet.md"
+  - "d_470-s_13-c_12a-sc_gimel.md"

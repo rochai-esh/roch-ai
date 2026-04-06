@@ -6,7 +6,7 @@ is_leaf: false
 language: "he"
 parent: ".."
 children:
-  - "d_473-s_06-c_17-sc_aleph.md"
-  - "d_473-s_06-c_17-sc_bet.md"
-  - "d_473-s_06-c_17-sc_gimel.md"
-  - "d_473-s_06-c_17-sc_dalet.md"
+  - "d_473-s_06-c_17-sc_01.md"
+  - "d_473-s_06-c_17-sc_02.md"
+  - "d_473-s_06-c_17-sc_03.md"
+  - "d_473-s_06-c_17-sc_04.md"

@@ -1,0 +1,4 @@
+node_type: "clause"
+clause_id: "c_28"
+title: "גורמי סיכון בהכר את הלקוח"
+sub_clauses: ["sc_aleph", "sc_bet", "sc_gimel", "sc_dalet", "sc_he", "sc_vav", "sc_zayin", "sc_chet", "sc_tet", "sc_yod", "sc_yod-aleph", "sc_yod-bet", "sc_yod-gimel", "sc_yod-dalet", "sc_tet-vav", "sc_tet-zayin"]

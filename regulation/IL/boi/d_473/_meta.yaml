@@ -8,7 +8,7 @@ source_file: "_source.pdf"
 source_md: "_source.md"
 status: "draft"
 language: "he"
-curated_date: "2026-04-05"
+curated_date: "2026-04-06"
 publication_date: "2023-06-29"
 effective_date: null
 references:
@@ -28,3 +28,4 @@ children:
   - "s_06"
   - "s_07"
   - "s_08"
+  - "s_09"

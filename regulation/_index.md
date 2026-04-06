@@ -2,4 +2,4 @@
 
 | Jurisdiction | Country | Bodies | Documents |
 |-------------|---------|--------|-----------|
-| [IL](IL/) | Israel | 1 (BoI) | 3 directives |
+| [IL](IL/) | Israel | 1 (BoI) | 5 directives |

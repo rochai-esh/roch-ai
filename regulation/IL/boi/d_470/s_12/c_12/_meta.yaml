@@ -1,0 +1,23 @@
+node_type: "clause"
+numbering: "12"
+numbering_display: "12"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_12-c_12-sc_aleph.md"
+  - "d_470-s_12-c_12-sc_bet.md"
+  - "d_470-s_12-c_12-sc_gimel.md"
+  - "d_470-s_12-c_12-sc_dalet.md"
+  - "d_470-s_12-c_12-sc_he.md"
+  - "d_470-s_12-c_12-sc_vav.md"
+  - "d_470-s_12-c_12-sc_zayin.md"
+  - "d_470-s_12-c_12-sc_chet.md"
+  - "d_470-s_12-c_12-sc_tet.md"
+  - "d_470-s_12-c_12-sc_yod.md"
+  - "d_470-s_12-c_12-sc_yod_aleph.md"
+  - "d_470-s_12-c_12-sc_yod_bet.md"
+  - "d_470-s_12-c_12-sc_yod_gimel.md"
+  - "d_470-s_12-c_12-sc_yod_dalet.md"
+  - "d_470-s_12-c_12-sc_paragraph_2.md"

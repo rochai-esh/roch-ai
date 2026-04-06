@@ -1,0 +1,9 @@
+node_type: "section"
+title: "הנפקת כרטיס חיוב"
+sequence: 4
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_04-c_04.md"
+  - "c_05"

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "מנגנון הסטת אחריות"
+sequence: 21
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_21-c_25.md"

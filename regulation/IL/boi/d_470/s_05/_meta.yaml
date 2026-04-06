@@ -1,0 +1,8 @@
+node_type: "section"
+title: "מסירת כרטיס חיוב"
+sequence: 5
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_05-c_06.md"

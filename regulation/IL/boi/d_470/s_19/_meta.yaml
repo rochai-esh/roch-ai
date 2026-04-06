@@ -1,0 +1,8 @@
+node_type: "section"
+title: "סליקת עסקאות בכרטיס חיוב"
+sequence: 19
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_19-c_23.md"

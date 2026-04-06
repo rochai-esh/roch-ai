@@ -2,4 +2,4 @@
 
 | Body | Name | Documents |
 |------|------|-----------|
-| [boi](boi/) | Bank of Israel - בנק ישראל | 3 directives |
+| [boi](boi/) | Bank of Israel - בנק ישראל | 5 directives |
