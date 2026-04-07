@@ -1,0 +1,10 @@
+node_type: "section"
+title: "ניתוק קשר עם שוכרי כספות"
+sequence: 11
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_443-s_11-c_17.md"
+  - "d_443-s_11-c_18.md"
+  - "c_19"

@@ -1,0 +1,11 @@
+node_type: section
+title: "פיקדונות ללא תנועה"
+title_en: "Dormant Deposits"
+sequence: 4
+depth: 1
+language: he
+parent: ".."
+children:
+  - "c_13"
+  - "c_13a"
+  - "c_13b"

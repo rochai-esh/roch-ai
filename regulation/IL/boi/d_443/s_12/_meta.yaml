@@ -1,0 +1,8 @@
+node_type: "section"
+title: "תיעוד ושמירת מסמכים"
+sequence: 12
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_20"

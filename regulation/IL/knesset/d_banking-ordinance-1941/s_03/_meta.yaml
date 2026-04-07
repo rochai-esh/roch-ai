@@ -1,0 +1,9 @@
+node_type: section
+title: "סמכויות הנגיד והמפקח"
+title_en: "Powers of Governor and Supervisor"
+sequence: 3
+depth: 1
+language: he
+parent: ".."
+children:
+  - "d_banking-ordinance-1941-s_03.md"

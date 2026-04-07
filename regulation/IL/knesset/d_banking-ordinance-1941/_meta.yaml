@@ -1,0 +1,32 @@
+id: d_banking-ordinance-1941
+node_type: law
+directive_type: ordinance
+jurisdiction: IL
+body_id: knesset
+title_he: פקודת הבנקאות, 1941
+title_en: Banking Ordinance 1941
+publication_date: "1941-01-01"
+commencement_date: "1941-01-01"
+official_publication: "ע\"ר 1134, 1941 תוס' 1, עמ' (ע) 69, (א) 85"
+curated_date: "2026-04-07"
+status: in_force
+language: he
+source_file: "_source.pdf"
+source_md: "_source.md"
+authority: Knesset (originally British Mandate Palestine)
+cross_references:
+  - id: banking-licensing-law-1981
+    type: cross_reference
+    description: חוק הבנקאות (רישוי), התשמ"א-1981 — Banking Law (Licensing) 1981
+  - id: bank-of-israel-law-2010
+    type: cross_reference
+    description: חוק בנק ישראל, התש"ע-2010 — Bank of Israel Law 2010
+  - id: administrator-general-law-1978
+    type: cross_reference
+    description: חוק האפוטרופוס הכללי, התשל"ח-1978 — Administrator General Law 1978
+children:
+  - "s_01"
+  - "s_02"
+  - "s_03"
+  - "s_04"
+  - "s_05"

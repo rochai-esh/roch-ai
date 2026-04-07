@@ -1,0 +1,10 @@
+node_type: "section"
+title: "הנחיות לדיווח על לוחות 01-03"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_07-c_08.md"
+  - "d_839-s_07-c_09.md"
+  - "d_839-s_07-c_10.md"

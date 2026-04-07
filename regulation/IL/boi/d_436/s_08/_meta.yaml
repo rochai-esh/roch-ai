@@ -1,0 +1,8 @@
+node_type: "section"
+title: "הסכם הוראות טלפוניות"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_436-s_08-c_08.md"

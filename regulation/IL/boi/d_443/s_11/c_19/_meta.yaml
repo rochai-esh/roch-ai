@@ -1,0 +1,14 @@
+node_type: "clause"
+numbering: "19"
+numbering_display: "19"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_443-s_11-c_19-sc_aleph.md"
+  - "d_443-s_11-c_19-sc_bet.md"
+  - "d_443-s_11-c_19-sc_gimel.md"
+  - "d_443-s_11-c_19-sc_dalet.md"
+  - "d_443-s_11-c_19-sc_he.md"
+  - "d_443-s_11-c_19-sc_vav.md"

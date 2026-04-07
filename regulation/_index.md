@@ -2,4 +2,4 @@
 
 | Jurisdiction | Country | Bodies | Documents |
 |-------------|---------|--------|-----------|
-| [IL](IL/) | Israel | 1 (BoI) | 5 directives |
+| [IL](IL/) | Israel | 2 (BoI, Knesset) | 10 documents |
