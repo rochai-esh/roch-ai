@@ -1,0 +1,8 @@
+node_type: "section"
+title: "גורם ייעודי לטיפול בפניות לקוחות"
+sequence: 4
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_436-s_04-c_04.md"

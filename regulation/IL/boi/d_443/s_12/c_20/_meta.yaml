@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "20"
+numbering_display: "20"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_443-s_12-c_20-sc_aleph.md"
+  - "d_443-s_12-c_20-sc_bet.md"

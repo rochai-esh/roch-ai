@@ -1,0 +1,8 @@
+node_type: "section"
+title: "מבוא"
+sequence: 0
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_436-s_00.md"

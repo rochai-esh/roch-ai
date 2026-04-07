@@ -1,0 +1,11 @@
+node_type: "clause"
+numbering: "16"
+numbering_display: "16"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_443-s_10-c_16-sc_aleph.md"
+  - "d_443-s_10-c_16-sc_bet.md"
+  - "d_443-s_10-c_16-sc_gimel.md"

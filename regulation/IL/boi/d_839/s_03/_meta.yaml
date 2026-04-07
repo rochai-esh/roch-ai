@@ -1,0 +1,8 @@
+node_type: "section"
+title: "מועד הגשת הדוח"
+sequence: 3
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_03-c_04.md"

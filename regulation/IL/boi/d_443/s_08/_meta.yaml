@@ -1,0 +1,8 @@
+node_type: "section"
+title: "דיווח לאפוטרופוס הכללי"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_08"

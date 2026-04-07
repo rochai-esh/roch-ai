@@ -1,0 +1,11 @@
+node_type: "clause"
+numbering: "5"
+numbering_display: "5"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_436-s_05-c_05-sc_aleph.md"
+  - "d_436-s_05-c_05-sc_bet.md"
+  - "d_436-s_05-c_05-sc_gimel.md"

@@ -1,0 +1,14 @@
+node_type: "section"
+title: "לוחות"
+sequence: 9
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_09-c_t01.md"
+  - "d_839-s_09-c_t02.md"
+  - "d_839-s_09-c_t03.md"
+  - "d_839-s_09-c_t04.md"
+  - "d_839-s_09-c_t05.md"
+  - "d_839-s_09-c_t06.md"
+  - "d_839-s_09-c_t07.md"

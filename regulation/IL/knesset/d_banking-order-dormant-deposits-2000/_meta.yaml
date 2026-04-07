@@ -1,0 +1,26 @@
+id: d_banking-order-dormant-deposits-2000
+node_type: law
+directive_type: order
+jurisdiction: IL
+body_id: knesset
+title_he: צו הבנקאות (פיקדונות ללא תנועה), התש"ס-2000
+title_en: Banking Order (Dormant Deposits) 2000
+publication_date: "2000-03-14"
+commencement_date: "2000-07-01"
+official_publication: "ק.ת. 6026, התש\"ס (27.3.2000), עמ' 414"
+curated_date: "2026-04-07"
+status: in_force
+authority: Banking Ordinance 1941, Section 13ב
+cross_references:
+  - id: banking-ordinance-1941-s13b
+    type: legal_basis
+    description: This order is issued under the authority of Section 13ב of the Banking Ordinance 1941
+  - id: investment-trust-law-1994
+    type: cross_reference
+    description: חוק להשקעות משותפות בנאמנות, התשנ"ד-1994
+  - id: savings-encouragement-law-1956
+    type: cross_reference
+    description: חוק עידוד החיסכון, הנחות ממס הכנסה וערבות למילוות, התשט"ז-1956
+  - id: banking-order-dormant-deposits-1983
+    type: supersedes
+    description: צו הבנקאות (פיקדונות ללא תנועה), התשמ"ג-1983

@@ -1,0 +1,19 @@
+node_type: clause
+numbering: "13ב"
+numbering_display: "13ב"
+title: "פקדונות ללא תנועה"
+title_en: "Dormant deposits"
+depth: 2
+is_leaf: true
+language: he
+parent: ".."
+annotations:
+  - "KEY CLAUSE: Primary statutory basis for dormant deposit handling in Israeli banking"
+  - "Delegated authority: Governor sets investment rules via Banking Order (Dormant Deposits) 2000"
+cross_references:
+  - id: d_banking-order-dormant-deposits-2000
+    type: delegated_legislation
+    description: "צו הבנקאות (פיקדונות ללא תנועה), התש\"ס-2000 — Order issued under authority of this section"
+  - id: d_436
+    type: requires_compliance
+    description: "הוראה 436 — BOI Directive on dormant deposits"

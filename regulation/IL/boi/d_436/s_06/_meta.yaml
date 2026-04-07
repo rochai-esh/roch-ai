@@ -1,0 +1,8 @@
+node_type: "section"
+title: "זיהוי הלקוח או היורש לצורך משיכת כספים"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_436-s_06-c_06.md"

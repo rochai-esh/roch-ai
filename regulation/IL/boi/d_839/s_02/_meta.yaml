@@ -1,0 +1,8 @@
+node_type: "section"
+title: "תדירות הדיווח"
+sequence: 2
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_02-c_03.md"

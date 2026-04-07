@@ -1,0 +1,11 @@
+node_type: "clause"
+numbering: "7"
+numbering_display: "7"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_06-c_07-sc_01.md"
+  - "d_839-s_06-c_07-sc_02.md"
+  - "d_839-s_06-c_07-sc_03.md"
