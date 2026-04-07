@@ -1,0 +1,31 @@
+node_type: "directive"
+title: "הפצת כרטיסי אשראי של מנפיקים הקשורים עם תאגיד בנקאי בהסכם הפצה"
+directive_number: 473
+directive_type: "directive"
+body_id: "boi"
+jurisdiction: "IL"
+source_file: "_source.pdf"
+source_md: "_source.md"
+status: "draft"
+language: "he"
+curated_date: "2026-04-06"
+publication_date: "2023-06-29"
+effective_date: null
+references:
+  - target: "banking-service-law-1981"
+    type: "legal_basis"
+    description: "חוק הבנקאות (שירות ללקוח), התשמ\"א-1981 — סעיף 7ו — foundational law for credit card distribution"
+  - target: "financial-info-service-law-2021"
+    type: "cross_reference"
+    description: "חוק שירות מידע פיננסי, התשפ\"ב-2021 — referenced in clause 12.3"
+annotations: []
+children:
+  - "s_01"
+  - "s_02"
+  - "s_03"
+  - "s_04"
+  - "s_05"
+  - "s_06"
+  - "s_07"
+  - "s_08"
+  - "s_09"

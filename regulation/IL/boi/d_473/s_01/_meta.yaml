@@ -1,0 +1,11 @@
+node_type: "section"
+title: "מבוא"
+sequence: 1
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_473-s_01-c_01.md"
+  - "d_473-s_01-c_02.md"
+  - "d_473-s_01-c_03.md"
+  - "d_473-s_01-c_04.md"

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "פרק ח'1: העברת מידע בדבר היתרה בחשבון עובר ושב"
+sequence: 10
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_73a"

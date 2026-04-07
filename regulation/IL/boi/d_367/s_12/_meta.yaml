@@ -1,0 +1,8 @@
+node_type: "section"
+title: "פרק י': הוראת מעבר"
+sequence: 12
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_12-c_77.md"

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "שימוש בכרטיסי חיוב בתקן EMV"
+sequence: 17
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_17-c_21.md"

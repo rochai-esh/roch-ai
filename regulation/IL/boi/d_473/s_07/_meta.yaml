@@ -1,0 +1,9 @@
+node_type: "section"
+title: "סירוב בלתי סביר"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_473-s_07-c_19.md"
+  - "d_473-s_07-c_20.md"

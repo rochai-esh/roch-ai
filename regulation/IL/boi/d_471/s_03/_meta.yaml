@@ -1,0 +1,10 @@
+node_type: "section"
+title: "תיקון רישום"
+sequence: 3
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_471-s_03-c_03.md"
+  - "c_04"
+  - "c_05"

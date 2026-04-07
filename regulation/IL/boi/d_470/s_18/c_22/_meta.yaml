@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "22"
+numbering_display: "22"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_18-c_22-sc_aleph.md"
+  - "d_470-s_18-c_22-sc_bet.md"

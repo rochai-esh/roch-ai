@@ -1,0 +1,4 @@
+node_type: "clause"
+clause_id: "c_87a"
+title: "שירותי תשלום אגב פעילות במטבע וירטואלי של לקוחות"
+sub_clauses: ["sc_aleph", "sc_bet", "sc_gimel", "sc_dalet", "sc_he", "sc_vav", "sc_zayin"]

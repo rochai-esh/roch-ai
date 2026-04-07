@@ -1,0 +1,9 @@
+node_type: "clause"
+numbering: "73א"
+numbering_display: "73א"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_10-c_73a-sc_aleph.md"

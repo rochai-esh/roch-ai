@@ -1,0 +1,9 @@
+node_type: "section"
+title: "דיוור ופרסום"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_06-c_07.md"
+  - "d_470-s_06-c_08.md"

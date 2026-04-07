@@ -1,0 +1,11 @@
+node_type: "clause"
+numbering: "1"
+numbering_display: "1"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_471-s_01-c_01-sc_aleph.md"
+  - "d_471-s_01-c_01-sc_bet.md"
+  - "d_471-s_01-c_01-sc_gimel.md"

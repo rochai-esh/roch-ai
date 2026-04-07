@@ -1,0 +1,5 @@
+node_type: "part"
+part_id: "p_03"
+title: "פרק ג': הערכת סיכונים"
+children:
+  - "s_01"

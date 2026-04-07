@@ -1,0 +1,8 @@
+node_type: "section"
+title: "פרק ג'1: צירוף וגריעת בעל חשבון ומורשה חתימה מרחוק"
+sequence: 4
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_39a"

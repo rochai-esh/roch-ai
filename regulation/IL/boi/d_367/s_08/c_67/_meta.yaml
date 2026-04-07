@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "67"
+numbering_display: "67"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_08-c_67-sc_aleph.md"
+  - "d_367-s_08-c_67-sc_bet.md"

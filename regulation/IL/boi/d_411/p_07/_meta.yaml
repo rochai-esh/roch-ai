@@ -1,0 +1,5 @@
+node_type: "part"
+part_id: "p_07"
+title: "פרק ז': דיווח לפיקוח על הבנקים"
+children:
+  - "s_01"

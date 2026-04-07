@@ -1,0 +1,10 @@
+node_type: "clause"
+numbering: "19"
+numbering_display: "19"
+depth: 2
+is_leaf: false
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_16-c_19-sc_aleph.md"
+  - "d_470-s_16-c_19-sc_bet.md"

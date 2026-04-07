@@ -1,0 +1,8 @@
+node_type: "section"
+title: "תביעה בגין הפסד כספי נוסף"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_471-s_06-c_08.md"

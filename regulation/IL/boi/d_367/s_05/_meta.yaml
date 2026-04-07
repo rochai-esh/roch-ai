@@ -1,0 +1,12 @@
+node_type: "section"
+title: "פרק ד': זיהוי ואימות"
+sequence: 5
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_05-c_40.md"
+  - "d_367-s_05-c_41.md"
+  - "c_42"
+  - "d_367-s_05-c_43.md"
+  - "d_367-s_05-c_44.md"

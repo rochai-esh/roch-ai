@@ -1,0 +1,8 @@
+node_type: "section"
+title: "הגדרות"
+sequence: 2
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_02"

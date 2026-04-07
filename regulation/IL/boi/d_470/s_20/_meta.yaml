@@ -1,0 +1,8 @@
+node_type: "section"
+title: "מכשירים אוטומטיים למשיכת מזומן"
+sequence: 20
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_470-s_20-c_24.md"
