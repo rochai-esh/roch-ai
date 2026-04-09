@@ -1,0 +1,6 @@
+children:
+- sc_bet
+clause_number: '3'
+has_subclauses: true
+node_type: clause
+parent: d_2752/s_01

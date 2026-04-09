@@ -1,0 +1,8 @@
+node_type: "section"
+title: "טיוטת הוראה לחברות תשלומים בעניין מיקור חוץ"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_draft-outsourcing-payment-companies-s_06-content.md"

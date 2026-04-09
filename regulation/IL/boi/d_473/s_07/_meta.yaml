@@ -1,9 +1,8 @@
-node_type: "section"
-title: "סירוב בלתי סביר"
-sequence: 7
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_473-s_07-c_19.md"
-  - "d_473-s_07-c_20.md"
+- c_21
+- c_22
+- c_23
+node_type: section
+parent: d_473
+section_sequence: '07'
+title: דיווח

@@ -1,0 +1,9 @@
+node_type: "section"
+title: "פרק ה': בחינות מקדימות להתקשרות בהסדר מיקור חוץ"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_outsourcing-payment-companies-s_08-c_08.md"
+  - "d_outsourcing-payment-companies-s_08-c_09.md"

@@ -1,0 +1,27 @@
+node_type: directive
+title: פישוט הסכמים ללקוח
+directive_number: '449'
+directive_type: directive
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- boi-directive-451
+- fair-credit-law
+annotations: []
+children:
+- s_00
+- s_01
+- s_02
+- s_03
+- s_04
+- s_05
+- s_06
+- s_07
+- s_08
+- s_09
+- s_10

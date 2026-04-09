@@ -1,10 +1,7 @@
-node_type: "clause"
-numbering: "2"
-numbering_display: "2"
-depth: 2
-is_leaf: false
-language: "he"
-parent: ".."
 children:
-  - "d_471-s_02-c_02-sc_aleph.md"
-  - "d_471-s_02-c_02-sc_bet.md"
+- sc_aleph
+- sc_bet
+clause_number: '2'
+has_subclauses: true
+node_type: clause
+parent: d_471/s_02

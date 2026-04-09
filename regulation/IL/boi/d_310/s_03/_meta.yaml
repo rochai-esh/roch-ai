@@ -1,0 +1,15 @@
+node_type: "section"
+title: "פרק ב': ממשל תאגידי"
+sequence: 3
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_310-s_03-c_06.md"
+  - "d_310-s_03-c_07.md"
+  - "d_310-s_03-c_08.md"
+  - "d_310-s_03-c_09.md"
+  - "d_310-s_03-c_10.md"
+  - "d_310-s_03-c_11.md"
+  - "d_310-s_03-c_12.md"
+  - "d_310-s_03-c_13.md"

@@ -1,8 +1,7 @@
-node_type: "section"
-title: "הוראות ניהול בנקאי תקין החלות על חברות כרטיסי אשראי"
-sequence: 3
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_470-s_03-c_03.md"
+- c_09aleph
+- c_09bet
+node_type: section
+parent: d_470
+section_sequence: '03'
+title: פנייה בעקבות שינוי מהותי במצב כלכלי

@@ -1,0 +1,29 @@
+id: boi-directive-308
+jurisdiction: IL
+body: boi
+type: directive
+number: '308'
+title: ציות ופונקציית הציות בתאגיד הבנקאי
+language: he
+curated_date: '2026-04-09'
+cross_references:
+- type: boi-directive
+  id: '310'
+  path: boi/d_310
+- type: boi-directive
+  id: '307'
+  path: boi/d_307
+- type: boi-directive
+  id: '301'
+  path: boi/d_301
+- type: boi-directive
+  id: '350'
+  path: boi/d_350
+- type: boi-directive
+  id: '411'
+  path: boi/d_411
+- type: law
+  label: חוק איסור הלבנת הון
+- type: law
+  label: חוק הבנקאות (רישוי)
+sections: 10

@@ -1,8 +1,6 @@
-node_type: "section"
-title: "הודעה ללקוח"
-sequence: 5
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "c_07"
+- c_07
+node_type: section
+parent: d_471
+section_sequence: '05'
+title: הודעה ללקוח

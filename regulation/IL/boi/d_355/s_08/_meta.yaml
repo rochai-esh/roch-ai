@@ -1,0 +1,8 @@
+node_type: "section"
+title: "המשכיות עסקית של ספקים ונותני שירותים לתהליכים חיוניים"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_08-content.md"

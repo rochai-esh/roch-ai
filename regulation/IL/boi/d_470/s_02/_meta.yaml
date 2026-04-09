@@ -1,8 +1,13 @@
-node_type: "section"
-title: "הגדרות"
-sequence: 2
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_470-s_02-c_02.md"
+- c_02
+- c_03
+- c_04
+- c_05
+- c_06
+- c_07
+- c_08
+- c_09
+node_type: section
+parent: d_470
+section_sequence: '02'
+title: הגדרות

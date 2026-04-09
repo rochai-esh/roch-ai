@@ -1,0 +1,10 @@
+node_type: "clause"
+title: "סעיף 41"
+clause_number: "41"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_11-c_41-sc_aleph.md"
+  - "d_350-s_11-c_41-sc_bet.md"
+  - "d_350-s_11-c_41-sc_gimel.md"

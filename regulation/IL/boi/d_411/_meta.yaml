@@ -1,51 +1,37 @@
-node_type: "directive"
-title: "ניהול סיכוני איסור הלבנת הון ואיסור מימון טרור"
-directive_number: 411
-directive_type: "directive"
-body_id: "boi"
-jurisdiction: "IL"
-source_file: "_source.pdf"
-source_md: "_source.md"
-status: "draft"
-language: "he"
-curated_date: "2026-04-06"
-publication_date: null
-effective_date: null
-references:
-  - target: "aml-law-2000"
-    type: "legal_basis"
-    description: "חוק איסור הלבנת הון, התש\"ס-2000"
-  - target: "aml-order-2001"
-    type: "requires_compliance"
-    description: "צו איסור הלבנת הון (חובות זיהוי, דיווח וניהול רישומים)"
-  - target: "d_308"
-    type: "cross_reference"
-    description: "הוראה 308 - ציות ופונקציית הציות"
-  - target: "d_310"
-    type: "cross_reference"
-    description: "הוראה 310 - ניהול סיכונים"
-  - target: "d_301"
-    type: "cross_reference"
-    description: "הוראה 301 - דירקטוריון"
-  - target: "d_367"
-    type: "cross_reference"
-    description: "הוראה 367 - בנקאות בתקשורת"
-  - target: "d_470"
-    type: "cross_reference"
-    description: "הוראה 470 - כרטיסי חיוב"
-  - target: "banking-licensing-law-1981"
-    type: "legal_basis"
-    description: "חוק הבנקאות (רישוי), התשמ\"א-1981"
-  - target: "counter-terrorism-law-2016"
-    type: "cross_reference"
-    description: "חוק המאבק בטרור, התשע\"ו-2016"
-annotations: []
-children:
-  - "p_01"
-  - "p_02"
-  - "p_03"
-  - "p_04"
-  - "p_05"
-  - "p_06"
-  - "p_07"
-  - "p_08"
+id: boi-directive-411
+jurisdiction: IL
+body: boi
+type: directive
+number: '411'
+title: ניהול סיכוני איסור הלבנת הון ואיסור מימון טרור
+language: he
+curated_date: '2026-04-09'
+cross_references:
+- type: boi-directive
+  id: '308'
+  path: boi/d_308
+- type: boi-directive
+  id: '310'
+  path: boi/d_310
+- type: boi-directive
+  id: '411'
+  path: boi/d_411
+- type: boi-directive
+  id: '301'
+  path: boi/d_301
+- type: boi-directive
+  id: '367'
+  path: boi/d_367
+- type: law
+  label: חוק איסור הלבנת הון
+- type: law
+  label: חוק הפיקוח על שירותים פיננסיים
+- type: law
+  label: חוק שירותי תשלום
+- type: international-standard
+  label: FATF
+- type: international-standard
+  label: FATCA
+- type: international-standard
+  label: OECD
+sections: 25

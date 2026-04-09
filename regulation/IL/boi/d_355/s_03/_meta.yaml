@@ -1,0 +1,8 @@
+node_type: "section"
+title: "הגדרות"
+sequence: 3
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_03-c_03.md"

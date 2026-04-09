@@ -1,0 +1,28 @@
+node_type: circular
+title: חוזר מס' ח-06-2767 – פתיחת חשבון עובר ושב ביתרת זכות לגופים פיננסים
+directive_number: '2767'
+directive_type: circular
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- banking-service-to-customer-law
+- boi-directive-424
+- financial-services-supervision-law
+- payment-services-regulation-law
+annotations: []
+children:
+- s_00
+- s_01
+- s_02
+- s_03
+- s_04
+- s_05
+- s_06
+- s_07
+- s_08
+- s_09

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "חוסן והמשכיות עסקית"
+sequence: 12
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_12-c_45.md"

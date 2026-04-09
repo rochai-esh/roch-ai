@@ -1,8 +1,6 @@
-node_type: "section"
-title: "חיובים וזיכויים של כרטיס חיוב שבוטל"
-sequence: 11
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "c_11"
+- c_27
+node_type: section
+parent: d_470
+section_sequence: '11'
+title: הסכמי תפעול חדשים – הוראות מעבר

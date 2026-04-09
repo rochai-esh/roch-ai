@@ -1,0 +1,9 @@
+node_type: section
+title: החלטה בבקשה לפתיחת חשבון
+section_number: '04'
+parent: d_424
+status: draft
+language: he
+children:
+- '07'
+- 08

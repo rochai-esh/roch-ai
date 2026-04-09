@@ -1,8 +1,5 @@
-node_type: "section"
-title: "הצגת מידע על עסקאות בכרטיס חיוב באתר הבנק"
-sequence: 13
-depth: 1
-language: "he"
-parent: ".."
-children:
-  - "c_12a"
+children: []
+node_type: section
+parent: d_470
+section_sequence: '13'
+title: עדכונים

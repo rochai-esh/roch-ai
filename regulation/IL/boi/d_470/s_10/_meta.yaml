@@ -1,8 +1,6 @@
-node_type: "section"
-title: "סיום חוזה כרטיס חיוב"
-sequence: 10
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_470-s_10-c_10.md"
+- c_26
+node_type: section
+parent: d_470
+section_sequence: '10'
+title: העברת הכספים מהמנפיק הבנקאי למתפעל ההנפקה

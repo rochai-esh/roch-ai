@@ -1,0 +1,15 @@
+id: isa-directive-online-identification-aml
+jurisdiction: IL
+body: isa
+type: directive
+number: online-identification-aml
+title: הוראה לחברות תשלומים ליישום חובות איסור הלבנת הון באמצעות טכנולוגיה לזיהוי
+  מקוון
+language: he
+curated_date: '2026-04-09'
+cross_references:
+- type: law
+  label: חוק איסור הלבנת הון
+- type: international-standard
+  label: FATF
+sections: 21

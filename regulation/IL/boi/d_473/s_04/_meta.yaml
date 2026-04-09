@@ -1,14 +1,12 @@
-node_type: "section"
-title: "תנאי הסכם ההפצה"
-sequence: 4
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_473-s_04-c_07.md"
-  - "d_473-s_04-c_08.md"
-  - "d_473-s_04-c_09.md"
-  - "c_10"
-  - "d_473-s_04-c_11.md"
-  - "c_12"
-  - "d_473-s_04-c_13.md"
+- c_07
+- c_08
+- c_09
+- c_10
+- c_11
+- c_12
+- c_13
+node_type: section
+parent: d_473
+section_sequence: '04'
+title: תנאי הסכם ההפצה

@@ -1,8 +1,6 @@
-node_type: "section"
-title: "מבוא"
-sequence: 1
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "c_01"
+- c_01
+node_type: section
+parent: d_471
+section_sequence: '01'
+title: מבוא

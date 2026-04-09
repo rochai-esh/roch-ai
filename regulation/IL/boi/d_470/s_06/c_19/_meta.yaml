@@ -1,0 +1,7 @@
+children:
+- sc_aleph
+- sc_bet
+clause_number: '19'
+has_subclauses: true
+node_type: clause
+parent: d_470/s_06

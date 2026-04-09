@@ -1,0 +1,12 @@
+node_type: "section"
+title: "פרק ג': מדיניות מיקור חוץ"
+sequence: 9
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_draft-outsourcing-payment-companies-s_09-c_03.md"
+  - "d_draft-outsourcing-payment-companies-s_09-c_04.md"
+  - "d_draft-outsourcing-payment-companies-s_09-c_01.md"
+  - "d_draft-outsourcing-payment-companies-s_09-c_02.md"
+  - "d_draft-outsourcing-payment-companies-s_09-c_03.md"

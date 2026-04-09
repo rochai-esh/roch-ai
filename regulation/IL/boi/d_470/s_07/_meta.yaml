@@ -1,8 +1,6 @@
-node_type: "section"
-title: "שיווק נכסים"
-sequence: 7
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "c_09"
+- c_21
+node_type: section
+parent: d_470
+section_sequence: '07'
+title: שימוש בכרטיסי חיוב בתקן EMV

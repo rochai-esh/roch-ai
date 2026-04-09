@@ -1,0 +1,66 @@
+node_type: circular
+title: 'הנדון: הפצת כרטיסי אשראי של מנפיקים הקשורים עם תאגיד בנקאי בהסכם הפצה'
+directive_number: 2752
+directive_type: circular
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- target: d_473
+  type: directive
+  description: 'הסכם הפצה  )ניהול בנקאי תקין, הוראה מס'' 473(  ## מבוא  1. סעיף 7ו
+    לחוק הב'
+- target: d_2752
+  type: circular
+  description: ''' בתמוז תשפ"ג 29 ביוני 2023 **חוזר ח- 06 - 2752**  לכבוד  **התאגידים
+    הבנקאיים'
+- target: external_law
+  type: law
+  description: הבנקאות )שירות ללקוח(
+- target: external_law
+  type: law
+  description: 'להגברת התחרות ולצמצום הריכוזיות בשוק הבנקאות בישראל )תיקוני '
+- target: external_law
+  type: law
+  description: קובע כי המפקח על הבנקים ייקבע בהוראות ניהול בנקאי תקין הוראו
+- target: external_law
+  type: law
+  description: 'קובע כי לא יסרב תאגיד בנקאי סירוב בלתי סביר להתקשר עם מנפיק '
+- target: external_law
+  type: law
+  description: עקרונות האסדרה
+- target: external_law
+  type: law
+  description: לא יכללו סממנים של התאגיד הבנקאי
+- target: external_law
+  type: law
+  description: 'קובע כי תאגיד בנקאי לא יסרב סירוב בלתי סביר להתקשר עם מנפיק '
+- target: external_law
+  type: law
+  description: כי המפקח רשאי לקבוע תנאים שיראו אותם כבלתי סבירים
+- target: external_law
+  type: law
+  description: בעניין זה
+- target: external_law
+  type: law
+  description: עולה כי סעיף החוק נועד לאפשר פניה לכלל לקוחות התאגיד הבנקאי
+- target: external_law
+  type: law
+  description: ממשיך וקובע כי לא יסרב תאגיד בנקאי סירוב בלתי סביר להתקשר עם
+- target: external_law
+  type: law
+  description: שהוא מנפיק
+- target: external_law
+  type: law
+  description: שירות מידע פיננסי
+annotations: []
+children:
+- s_00
+- s_01
+- s_02
+- s_03
+- s_04

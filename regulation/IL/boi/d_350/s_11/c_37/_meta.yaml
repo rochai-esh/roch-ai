@@ -1,0 +1,12 @@
+node_type: "clause"
+title: "סעיף 37"
+clause_number: "37"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_11-c_37-sc_aleph.md"
+  - "d_350-s_11-c_37-sc_bet.md"
+  - "d_350-s_11-c_37-sc_gimel.md"
+  - "d_350-s_11-c_37-sc_dalet.md"
+  - "d_350-s_11-c_37-sc_he.md"

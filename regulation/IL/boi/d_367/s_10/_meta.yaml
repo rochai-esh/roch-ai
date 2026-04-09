@@ -1,8 +1,8 @@
 node_type: "section"
-title: "פרק ח'1: העברת מידע בדבר היתרה בחשבון עובר ושב"
+title: "פרק ח': ריכוז מידע"
 sequence: 10
 depth: 1
 language: "he"
 parent: ".."
 children:
-  - "c_73a"
+  - "d_367-s_10-c_73.md"

@@ -1,0 +1,9 @@
+node_type: section
+title: עיקרי ההוראה
+section_number: '02'
+parent: d_2767
+status: draft
+language: he
+children:
+- '05'
+- '06'

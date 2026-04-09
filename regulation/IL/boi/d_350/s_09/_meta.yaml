@@ -1,0 +1,10 @@
+node_type: "section"
+title: "הפונקציה לניהול סיכון תפעולי"
+sequence: 9
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_09-c_23.md"
+  - "c_24"
+  - "d_350-s_09-c_25.md"

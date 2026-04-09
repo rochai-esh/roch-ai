@@ -1,0 +1,8 @@
+node_type: "section"
+title: "סניפים ניידים"
+sequence: 11
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_11-content.md"

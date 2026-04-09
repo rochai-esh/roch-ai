@@ -1,0 +1,10 @@
+node_type: "clause"
+title: "סעיף 26"
+clause_number: "26"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_10-c_26-sc_aleph.md"
+  - "d_350-s_10-c_26-sc_bet.md"
+  - "d_350-s_10-c_26-sc_gimel.md"

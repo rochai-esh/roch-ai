@@ -1,0 +1,10 @@
+node_type: "section"
+title: "פרק ד': מגבלות בקשר עם העברת פונקציה למיקור חוץ"
+sequence: 10
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_draft-outsourcing-payment-companies-s_10-c_05.md"
+  - "d_draft-outsourcing-payment-companies-s_10-c_06.md"
+  - "d_draft-outsourcing-payment-companies-s_10-c_07.md"

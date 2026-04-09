@@ -1,9 +1,9 @@
-node_type: "section"
-title: "דיוור ופרסום"
-sequence: 6
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_470-s_06-c_07.md"
-  - "d_470-s_06-c_08.md"
+- c_17
+- c_18
+- c_19
+- c_20
+node_type: section
+parent: d_470
+section_sequence: '06'
+title: כרטיס חיוב מיידי וכרטיס נטען

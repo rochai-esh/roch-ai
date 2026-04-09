@@ -1,0 +1,11 @@
+node_type: "section"
+title: "מסגרת ניהול הסיכון התפעולי"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_07-c_10.md"
+  - "d_350-s_07-c_11.md"
+  - "d_350-s_07-c_12.md"
+  - "c_13"

@@ -1,0 +1,8 @@
+node_type: section
+title: סגירת החשבון לפי החלטת הבנק
+section_number: '07'
+parent: d_432
+status: draft
+language: he
+children:
+- '20'

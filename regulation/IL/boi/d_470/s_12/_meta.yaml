@@ -1,8 +1,5 @@
-node_type: "section"
-title: "פירוט חשבון"
-sequence: 12
-depth: 1
-language: "he"
-parent: ".."
-children:
-  - "c_12"
+children: []
+node_type: section
+parent: d_470
+section_sequence: '12'
+title: נספח

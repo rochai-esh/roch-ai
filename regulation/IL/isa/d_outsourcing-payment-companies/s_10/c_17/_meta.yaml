@@ -1,0 +1,11 @@
+node_type: "clause"
+title: "סעיף 17"
+clause_number: "17"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_outsourcing-payment-companies-s_10-c_17-sc_aleph.md"
+  - "d_outsourcing-payment-companies-s_10-c_17-sc_bet.md"
+  - "d_outsourcing-payment-companies-s_10-c_17-sc_gimel.md"
+  - "d_outsourcing-payment-companies-s_10-c_17-sc_dalet.md"

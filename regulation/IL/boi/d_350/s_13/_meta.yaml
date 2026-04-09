@@ -1,0 +1,8 @@
+node_type: "section"
+title: "עדכונים"
+sequence: 13
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_13-content.md"

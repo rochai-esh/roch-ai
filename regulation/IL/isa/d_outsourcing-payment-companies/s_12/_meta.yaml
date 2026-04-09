@@ -1,0 +1,9 @@
+node_type: "section"
+title: "פרק ט': בחינה תקופתית ותחילה"
+sequence: 12
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_outsourcing-payment-companies-s_12-c_20.md"
+  - "d_outsourcing-payment-companies-s_12-c_21.md"

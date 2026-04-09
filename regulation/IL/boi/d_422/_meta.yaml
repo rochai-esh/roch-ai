@@ -1,0 +1,25 @@
+node_type: directive
+title: הוראה 422 – פתיחת חשבון עובר ושב ביתרת זכות וניהול חשבון
+directive_number: '422'
+directive_type: directive
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- aml-order
+- boi-directive-367
+- boi-directive-441
+- bounced-checks-law
+- insolvency-law
+- payment-services-law
+annotations: []
+children:
+- s_00
+- s_01
+- s_02
+- s_03
+- s_04

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "ביטוח"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_07-c_07.md"

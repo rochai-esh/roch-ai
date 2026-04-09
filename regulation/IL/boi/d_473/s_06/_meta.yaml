@@ -1,9 +1,7 @@
-node_type: "section"
-title: "הפרטים שהתאגיד הבנקאי מחויב להציג ללקוח"
-sequence: 6
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "c_17"
-  - "d_473-s_06-c_18.md"
+- c_19
+- c_20
+node_type: section
+parent: d_473
+section_sequence: '06'
+title: סירוב בלתי סביר

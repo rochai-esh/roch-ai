@@ -1,0 +1,9 @@
+node_type: "section"
+title: "ביקורת פנימית"
+sequence: 10
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_10-c_12.md"
+  - "d_355-s_10-c_13.md"

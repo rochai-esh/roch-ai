@@ -1,0 +1,7 @@
+children:
+- sc_15_1
+- sc_15_2
+clause_number: '15'
+has_subclauses: true
+node_type: clause
+parent: d_2752/s_04
