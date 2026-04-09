@@ -1,0 +1,12 @@
+node_type: "section"
+title: "ב. דברי הסבר"
+sequence: 3
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_draft-outsourcing-payment-companies-s_03-c_01.md"
+  - "d_draft-outsourcing-payment-companies-s_03-c_02.md"
+  - "d_draft-outsourcing-payment-companies-s_03-c_03.md"
+  - "d_draft-outsourcing-payment-companies-s_03-c_04.md"
+  - "d_draft-outsourcing-payment-companies-s_03-c_06.md"

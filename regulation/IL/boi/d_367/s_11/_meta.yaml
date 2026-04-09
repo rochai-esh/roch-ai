@@ -1,10 +1,8 @@
 node_type: "section"
-title: "פרק ט': דיווחים ואישורים"
+title: "פרק ח':1 העברת מידע בדבר היתרה בחשבון עובר ושב"
 sequence: 11
 depth: 1
 language: "he"
 parent: ".."
 children:
-  - "d_367-s_11-c_74.md"
-  - "d_367-s_11-c_75.md"
-  - "d_367-s_11-c_76.md"
+  - "d_367-s_11-c_73א.md"

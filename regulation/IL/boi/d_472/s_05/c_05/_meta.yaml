@@ -1,0 +1,12 @@
+children:
+- sc_aleph
+- sc_4_0
+- sc_2_5
+- sc_0_5
+- sc_0_25
+- sc_bet
+- sc_gimel
+clause_number: '5'
+has_subclauses: true
+node_type: clause
+parent: d_472/s_05

@@ -1,0 +1,9 @@
+node_type: "clause"
+title: "סעיף 28"
+clause_number: "28"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_10-c_28-sc_aleph.md"
+  - "d_350-s_10-c_28-sc_bet.md"

@@ -1,8 +1,14 @@
 node_type: "section"
-title: "פרק ח': ריכוז מידע"
+title: "פרק ז': בקרות במכשירים ובערוצים ספציפיים"
 sequence: 9
 depth: 1
 language: "he"
 parent: ".."
 children:
-  - "c_73"
+  - "d_367-s_09-c_66.md"
+  - "d_367-s_09-c_67.md"
+  - "d_367-s_09-c_68.md"
+  - "d_367-s_09-c_69.md"
+  - "d_367-s_09-c_70.md"
+  - "d_367-s_09-c_71.md"
+  - "d_367-s_09-c_72.md"

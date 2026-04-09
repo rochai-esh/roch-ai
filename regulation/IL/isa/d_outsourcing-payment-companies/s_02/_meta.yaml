@@ -1,0 +1,13 @@
+node_type: "section"
+title: "דברי הסבר"
+sequence: 2
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_outsourcing-payment-companies-s_02-c_01.md"
+  - "d_outsourcing-payment-companies-s_02-c_02.md"
+  - "d_outsourcing-payment-companies-s_02-c_03.md"
+  - "d_outsourcing-payment-companies-s_02-c_04.md"
+  - "d_outsourcing-payment-companies-s_02-c_05.md"
+  - "d_outsourcing-payment-companies-s_02-c_06.md"

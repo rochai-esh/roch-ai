@@ -1,0 +1,16 @@
+node_type: "section"
+title: "ממשל תאגידי"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_14"
+  - "d_350-s_08-c_15.md"
+  - "d_350-s_08-c_16.md"
+  - "d_350-s_08-c_17.md"
+  - "d_350-s_08-c_18.md"
+  - "d_350-s_08-c_19.md"
+  - "d_350-s_08-c_20.md"
+  - "d_350-s_08-c_21.md"
+  - "c_22"

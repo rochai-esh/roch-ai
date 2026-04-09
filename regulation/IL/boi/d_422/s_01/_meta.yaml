@@ -1,0 +1,10 @@
+node_type: section
+title: מבוא
+section_number: '01'
+parent: d_422
+status: draft
+language: he
+children:
+- '01'
+- '02'
+- '03'

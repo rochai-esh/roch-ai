@@ -1,0 +1,8 @@
+node_type: "section"
+title: "תחולה"
+sequence: 2
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_02-c_02.md"

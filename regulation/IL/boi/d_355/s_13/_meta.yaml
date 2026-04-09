@@ -1,0 +1,8 @@
+node_type: "section"
+title: "היתר כללי לבנקים לפתיחת סניפים ולהעתקתם בעת חירום"
+sequence: 13
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_13-c_03.md"

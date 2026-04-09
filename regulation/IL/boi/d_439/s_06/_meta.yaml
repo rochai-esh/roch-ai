@@ -1,0 +1,9 @@
+node_type: section
+title: ביטול חיוב על ידי הלקוח
+section_number: '06'
+parent: d_439
+status: draft
+language: he
+children:
+- '07'
+- 08

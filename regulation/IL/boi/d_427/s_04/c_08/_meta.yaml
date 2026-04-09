@@ -1,0 +1,7 @@
+children:
+- sc_bet
+- sc_he
+clause_number: '8'
+has_subclauses: true
+node_type: clause
+parent: d_427/s_04

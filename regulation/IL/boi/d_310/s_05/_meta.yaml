@@ -1,0 +1,10 @@
+node_type: "section"
+title: "פרק ד' – זיהוי, מדידה והערכה של סיכונים"
+sequence: 5
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_310-s_05-c_17.md"
+  - "d_310-s_05-c_18.md"
+  - "d_310-s_05-c_19.md"

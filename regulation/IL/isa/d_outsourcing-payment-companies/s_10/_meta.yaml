@@ -1,0 +1,10 @@
+node_type: "section"
+title: "פרק ז': התקשרות עם ספק מיקור החוץ"
+sequence: 10
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_outsourcing-payment-companies-s_10-c_15.md"
+  - "d_outsourcing-payment-companies-s_10-c_16.md"
+  - "c_17"

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "ג. פטור מפרסום דוח הערכת רגולציה (RIA)"
+sequence: 4
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_draft-outsourcing-payment-companies-s_04-content.md"

@@ -1,9 +1,11 @@
-node_type: "section"
-title: "הנפקת כרטיס חיוב"
-sequence: 4
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_470-s_04-c_04.md"
-  - "c_05"
+- c_10
+- c_11
+- c_12
+- c_13
+- c_14
+- c_15
+node_type: section
+parent: d_470
+section_sequence: '04'
+title: סיום חוזה כרטיס חיוב

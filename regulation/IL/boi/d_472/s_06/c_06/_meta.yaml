@@ -1,0 +1,9 @@
+children:
+- sc_aleph
+- sc_aleph
+- sc_bet
+- sc_gimel
+clause_number: '6'
+has_subclauses: true
+node_type: clause
+parent: d_472/s_06

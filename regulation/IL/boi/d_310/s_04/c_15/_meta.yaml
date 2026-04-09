@@ -1,0 +1,12 @@
+node_type: "clause"
+title: "סעיף 15"
+clause_number: "15"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_310-s_04-c_15-sc_bet.md"
+  - "d_310-s_04-c_15-sc_gimel.md"
+  - "d_310-s_04-c_15-sc_dalet.md"
+  - "d_310-s_04-c_15-sc_he.md"
+  - "d_310-s_04-c_15-sc_vav.md"

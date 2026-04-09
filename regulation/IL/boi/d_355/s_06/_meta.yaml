@@ -1,0 +1,8 @@
+node_type: "section"
+title: "גיבוש מסגרת עבודה לניהול המשכיות עסקית"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_355-s_06-content.md"

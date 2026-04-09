@@ -1,0 +1,12 @@
+node_type: "clause"
+title: "סעיף 14"
+clause_number: "14"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_08-c_14-sc_aleph.md"
+  - "d_350-s_08-c_14-sc_bet.md"
+  - "d_350-s_08-c_14-sc_gimel.md"
+  - "d_350-s_08-c_14-sc_dalet.md"
+  - "d_350-s_08-c_14-sc_he.md"

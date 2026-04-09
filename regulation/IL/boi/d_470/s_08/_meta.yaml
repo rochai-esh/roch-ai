@@ -1,8 +1,8 @@
-node_type: "section"
-title: "פנייה בעקבות שינוי מהותי במצב כלכלי"
-sequence: 8
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_470-s_08-c_9a.md"
+- c_22
+- c_23
+- c_24
+node_type: section
+parent: d_470
+section_sequence: 08
+title: הנפקת כרטיסי חיוב

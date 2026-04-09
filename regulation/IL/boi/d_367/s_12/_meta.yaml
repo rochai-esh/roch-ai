@@ -1,8 +1,10 @@
 node_type: "section"
-title: "פרק י': הוראת מעבר"
+title: "פרק ט': דיווחים ואישורים"
 sequence: 12
 depth: 1
 language: "he"
 parent: ".."
 children:
-  - "d_367-s_12-c_77.md"
+  - "d_367-s_12-c_74.md"
+  - "d_367-s_12-c_75.md"
+  - "d_367-s_12-c_76.md"

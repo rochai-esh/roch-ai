@@ -1,0 +1,11 @@
+node_type: "clause"
+title: "סעיף 8"
+clause_number: "8"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_367-s_02-c_08-sc_aleph.md"
+  - "d_367-s_02-c_08-sc_bet.md"
+  - "d_367-s_02-c_08-sc_gimel.md"
+  - "d_367-s_02-c_08-sc_aleph.md"

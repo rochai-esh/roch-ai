@@ -1,0 +1,25 @@
+node_type: directive
+title: שירותי תשלום מתקדמים
+directive_number: 427
+directive_type: directive
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- target: external_law
+  type: law
+  description: שירותי תשלום
+- target: external_law
+  type: law
+  description: הבנקאות )שירות ללקוח(
+annotations: []
+children:
+- s_01
+- s_02
+- s_03
+- s_04
+- s_05

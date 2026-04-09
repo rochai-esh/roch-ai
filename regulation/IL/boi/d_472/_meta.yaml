@@ -1,0 +1,49 @@
+node_type: directive
+title: סולקים וסליקת עסקאות בכרטיסי חיוב
+directive_number: 472
+directive_type: directive
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- target: d_420
+  type: directive
+  description: מסירת מידע באמצעים אלקטרונים )הוראה 420(\*.  \* במהלך שנת 2016 ייבחנו
+- target: d_309
+  type: directive
+  description: י ובקרה פנימית על דיווח כספי )הוראה 309(;   ו. ניהול סיכון אשראי )311
+- target: d_421
+  type: directive
+  description: פחתה או תוספת בשיעורי הריבית )הוראה 421(;   יא. עמלת פירעון מוקדם של
+- target: external_law
+  type: law
+  description: כרטיסי חיוב
+- target: external_law
+  type: law
+  description: הבנקאות )רישוי(
+- target: external_law
+  type: law
+  description: הבנקאות )שירות ללקוח(
+- target: external_law
+  type: law
+  description: הגנת הצרכן
+annotations: []
+children:
+- s_01
+- s_02
+- s_03
+- s_04
+- s_05
+- s_06
+- s_07
+- s_08
+- s_09
+- s_10
+- s_11
+- s_12
+- s_13
+- s_14

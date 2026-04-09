@@ -1,0 +1,10 @@
+node_type: "section"
+title: "תרבות ארגונית"
+sequence: 5
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_05-c_06.md"
+  - "d_350-s_05-c_07.md"
+  - "d_350-s_05-c_08.md"

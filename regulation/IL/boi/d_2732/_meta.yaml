@@ -1,0 +1,39 @@
+node_type: circular
+title: שירותי תשלום מתקדמים
+directive_number: 2732
+directive_type: circular
+body_id: boi
+jurisdiction: IL
+source_file: _source.pdf
+source_md: _source.md
+status: draft
+language: he
+curated_date: '2026-04-09'
+references:
+- target: d_427
+  type: directive
+  description: 2022 פרסם הפיקוח על הבנקים את הוראה 427 בנושא "שירותי תשלום מתקדמים".
+- target: d_2732
+  type: circular
+  description: כסלו, תשפ"ג 21 בדצמבר, 2022 **חוזר מס' ח – 06 - 2732**  לכבוד  **התאגידים
+    הבנקאיים
+- target: d_2714
+  type: circular
+  description: תחילה  4. חלף האמור בסעיף 10 לחוזר 2714-06 מיום 13 ליוני ,2022 מועד
+    ת
+- target: external_law
+  type: law
+  description: שירותי תשלום
+- target: external_law
+  type: law
+  description: הבנקאות )שירות ללקוח(
+annotations: []
+children:
+- s_01
+- s_02
+- s_03
+- s_04
+- s_05
+- s_06
+- s_07
+- s_08

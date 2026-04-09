@@ -1,0 +1,8 @@
+node_type: section
+title: הודעה ללקוח
+section_number: '05'
+parent: d_433
+status: draft
+language: he
+children:
+- '05'

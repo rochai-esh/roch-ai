@@ -1,8 +1,6 @@
-node_type: "section"
-title: "ביטול עיסקה בחו\"ל ביוזמת לקוח"
-sequence: 4
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_471-s_04-c_06.md"
+- c_06
+node_type: section
+parent: d_471
+section_sequence: '04'
+title: ביטול עיסקה בחו"ל ביוזמת לקוח

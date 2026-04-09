@@ -1,0 +1,15 @@
+node_type: "clause"
+title: "סעיף 13"
+clause_number: "13"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_07-c_13-sc_aleph.md"
+  - "d_350-s_07-c_13-sc_bet.md"
+  - "d_350-s_07-c_13-sc_gimel.md"
+  - "d_350-s_07-c_13-sc_dalet.md"
+  - "d_350-s_07-c_13-sc_he.md"
+  - "d_350-s_07-c_13-sc_vav.md"
+  - "d_350-s_07-c_13-sc_zayin.md"
+  - "d_350-s_07-c_13-sc_chet.md"

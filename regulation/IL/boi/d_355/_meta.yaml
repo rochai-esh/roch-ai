@@ -1,0 +1,37 @@
+node_type: "directive"
+title: "ניהול המשכיות עסקית"
+directive_number: 355
+directive_type: "directive"
+body_id: "boi"
+jurisdiction: "IL"
+source_file: "_source.pdf"
+source_md: "_source.md"
+status: "draft"
+language: "he"
+curated_date: "2026-04-09"
+publication_date: null
+effective_date: null
+references:
+  - target: "d_420"
+    type: "cross_reference"
+    description: "הוראה 420"
+  - target: "banking-licensing-law-1981"
+    type: "legal_basis"
+    description: "חוק הבנקאות (רישוי)"
+annotations: []
+children:
+  - "s_01"
+  - "s_02"
+  - "s_03"
+  - "s_04"
+  - "s_05"
+  - "s_06"
+  - "s_07"
+  - "s_08"
+  - "s_09"
+  - "s_10"
+  - "s_11"
+  - "s_12"
+  - "s_13"
+  - "s_14"
+  - "s_15"

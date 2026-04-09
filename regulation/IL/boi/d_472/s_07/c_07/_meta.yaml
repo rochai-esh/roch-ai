@@ -1,0 +1,12 @@
+children:
+- sc_aleph
+- sc_bet
+- sc_gimel
+- sc_dalet
+- sc_he
+- sc_vav
+- sc_zayin
+clause_number: '7'
+has_subclauses: true
+node_type: clause
+parent: d_472/s_07

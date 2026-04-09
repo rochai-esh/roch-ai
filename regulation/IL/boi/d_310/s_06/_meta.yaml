@@ -1,0 +1,10 @@
+node_type: "section"
+title: "פרק ה': ניטור ודיווח על סיכונים"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_310-s_06-c_20.md"
+  - "d_310-s_06-c_21.md"
+  - "d_310-s_06-c_22.md"

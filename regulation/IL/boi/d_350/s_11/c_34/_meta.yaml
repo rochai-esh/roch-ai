@@ -1,0 +1,10 @@
+node_type: "clause"
+title: "סעיף 34"
+clause_number: "34"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_11-c_34-sc_aleph.md"
+  - "d_350-s_11-c_34-sc_bet.md"
+  - "d_350-s_11-c_34-sc_gimel.md"

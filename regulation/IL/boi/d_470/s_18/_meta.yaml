@@ -1,8 +1,0 @@
-node_type: "section"
-title: "הנפקת כרטיסי חיוב"
-sequence: 18
-depth: 1
-language: "he"
-parent: ".."
-children:
-  - "c_22"

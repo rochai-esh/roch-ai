@@ -1,0 +1,11 @@
+node_type: "clause"
+title: "סעיף 24"
+clause_number: "24"
+depth: 2
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_09-c_24-sc_aleph.md"
+  - "d_350-s_09-c_24-sc_bet.md"
+  - "d_350-s_09-c_24-sc_gimel.md"
+  - "d_350-s_09-c_24-sc_dalet.md"

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "פרק א' – הגדרות"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_draft-outsourcing-payment-companies-s_07-content.md"

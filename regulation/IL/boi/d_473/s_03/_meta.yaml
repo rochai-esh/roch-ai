@@ -1,8 +1,6 @@
-node_type: "section"
-title: "הגדרות"
-sequence: 3
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_473-s_03-c_06.md"
+- c_06
+node_type: section
+parent: d_473
+section_sequence: '03'
+title: הגדרות

@@ -1,0 +1,8 @@
+node_type: "section"
+title: "פרק ב': הדירקטוריון"
+sequence: 5
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_outsourcing-payment-companies-s_05-c_02.md"

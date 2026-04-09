@@ -1,0 +1,8 @@
+node_type: "section"
+title: "שלושת קווי הגנה"
+sequence: 6
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_06-c_09.md"

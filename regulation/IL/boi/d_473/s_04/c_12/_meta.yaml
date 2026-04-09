@@ -1,11 +1,8 @@
-node_type: "clause"
-numbering: "12"
-numbering_display: "12"
-depth: 2
-is_leaf: false
-language: "he"
-parent: ".."
 children:
-  - "d_473-s_04-c_12-sc_01.md"
-  - "d_473-s_04-c_12-sc_02.md"
-  - "d_473-s_04-c_12-sc_03.md"
+- sc_12_1
+- sc_12_2
+- sc_12_3
+clause_number: '12'
+has_subclauses: true
+node_type: clause
+parent: d_473/s_04

@@ -1,8 +1,6 @@
-node_type: "section"
-title: "תחולה"
-sequence: 2
-depth: 1
-language: "he"
-parent: ".."
 children:
-  - "d_473-s_02-c_05.md"
+- c_05
+node_type: section
+parent: d_473
+section_sequence: '02'
+title: תחולה

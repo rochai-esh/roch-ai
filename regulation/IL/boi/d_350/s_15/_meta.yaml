@@ -1,0 +1,8 @@
+node_type: "section"
+title: "נספח ב'"
+sequence: 15
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_350-s_15-content.md"

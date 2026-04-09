@@ -1,0 +1,11 @@
+node_type: "section"
+title: "ניהול הסיכון התפעולי"
+sequence: 10
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_26"
+  - "d_350-s_10-c_27.md"
+  - "c_28"
+  - "d_350-s_10-c_29.md"
