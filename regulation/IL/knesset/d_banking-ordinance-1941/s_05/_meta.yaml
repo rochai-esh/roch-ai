@@ -1,0 +1,9 @@
+node_type: section
+title: "הוראות שונות"
+title_en: "Miscellaneous Provisions"
+sequence: 5
+depth: 1
+language: he
+parent: ".."
+children:
+  - "d_banking-ordinance-1941-s_05.md"

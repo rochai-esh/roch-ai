@@ -1,0 +1,8 @@
+node_type: "section"
+title: "זיהוי הלקוח או היורש לצורך קבלת מידע"
+sequence: 5
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_05"

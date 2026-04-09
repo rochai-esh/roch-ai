@@ -1,0 +1,8 @@
+node_type: "section"
+title: "דירקטוריון"
+sequence: 4
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_04"

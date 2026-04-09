@@ -1,0 +1,9 @@
+node_type: section
+title: "פירוש"
+title_en: "Interpretation / Definitions"
+sequence: 1
+depth: 1
+language: he
+parent: ".."
+children:
+  - "d_banking-ordinance-1941-s_01.md"

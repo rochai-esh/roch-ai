@@ -1,0 +1,9 @@
+node_type: section
+title: "הגבלת השימוש בתואר \"בנק\""
+title_en: "Restriction on use of Bank title"
+sequence: 2
+depth: 1
+language: he
+parent: ".."
+children:
+  - "d_banking-ordinance-1941-s_02.md"

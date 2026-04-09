@@ -1,0 +1,13 @@
+node_type: "section"
+title: "הנחיות לדיווח על לוחות 04-07"
+sequence: 8
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_08-c_11.md"
+  - "d_839-s_08-c_12.md"
+  - "d_839-s_08-c_13.md"
+  - "d_839-s_08-c_14.md"
+  - "d_839-s_08-c_15.md"
+  - "d_839-s_08-c_16.md"

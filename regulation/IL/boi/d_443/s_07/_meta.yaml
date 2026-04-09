@@ -1,0 +1,8 @@
+node_type: "section"
+title: "יצירת קשר עם בעל פקדון ללא תנועה סמוך למועד פירעון הפקדון"
+sequence: 7
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "c_07"

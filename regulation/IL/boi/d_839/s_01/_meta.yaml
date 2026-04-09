@@ -1,0 +1,9 @@
+node_type: "section"
+title: "תחולה"
+sequence: 1
+depth: 1
+language: "he"
+parent: ".."
+children:
+  - "d_839-s_01-c_01.md"
+  - "d_839-s_01-c_02.md"
